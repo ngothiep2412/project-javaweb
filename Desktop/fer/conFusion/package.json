@@ -1,0 +1,25 @@
+{
+  "name": "confusion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngothiep2412/fer201m.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngothiep2412/fer201m/issues"
+  },
+  "homepage": "https://github.com/ngothiep2412/fer201m#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9",
+    "tailwindcss": "^3.1.5"
+  }
+}
