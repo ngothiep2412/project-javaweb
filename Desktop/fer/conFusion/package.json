@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ngothiep2412/fer201m.git"
+    "url": "git+https://github.com/ngothiep2412/fer.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ngothiep2412/fer201m/issues"
+    "url": "https://github.com/ngothiep2412/fer/issues"
   },
-  "homepage": "https://github.com/ngothiep2412/fer201m#readme",
+  "homepage": "https://github.com/ngothiep2412/fer#readme",
   "dependencies": {
     "bootstrap": "^4.0.0",
     "jquery": "^3.3.1",
